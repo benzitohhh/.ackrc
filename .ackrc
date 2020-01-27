@@ -12,8 +12,9 @@
 --ignore-dir=css
 --ignore-dir=publish
 --ignore-dir=build
+--ignore-dir=dist
 --ignore-dir=consultation-server
+--ignore-dir=font_awesome
 
-
-
-
+# ignore files
+--ignore-file=match:/yarn.lock/
