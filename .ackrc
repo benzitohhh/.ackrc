@@ -15,6 +15,7 @@
 --ignore-dir=dist
 --ignore-dir=consultation-server
 --ignore-dir=font_awesome
+--ignore-dir=static
 
 # ignore files
 --ignore-file=match:/yarn.lock/
